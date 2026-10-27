@@ -1,0 +1,18 @@
+{
+  "kind": "arcgis-nova-deployable-app",
+  "version": "0.1",
+  "generatedAt": "2026-10-27T03:01:52.097Z",
+  "title": "ArcGIS Pages Prefill 1291",
+  "authMode": "oauth",
+  "entry": "index.html",
+  "sourceAppPath": "outputs/apps/2026-10-27T03-01-52-3bcc2f3c-9996-4be8-b7d4-924710f67947/index.html",
+  "files": {
+    "app": "app.json",
+    "map": "map.json",
+    "runtime": "app.js",
+    "auth": "standalone-auth.js"
+  },
+  "portalUrl": "https://www.arcgis.com",
+  "appId": "zjyFwiuaXh1HvMXr",
+  "deploymentUrl": "https://zhezheng1991.github.io/arcgis-pages-prefill-1291-reviewed/"
+}
